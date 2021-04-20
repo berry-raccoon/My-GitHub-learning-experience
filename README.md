@@ -34,7 +34,7 @@ MarkDownPad2与csdn的MarkDown编辑器存在着略微的差异。我看了一�
 ## 3. 分支
 分支是原内容的一个拷贝。
 
-- 创建分支  
+- 创建 [分支](https://blog.csdn.net/qq_30607843/article/details/84404000?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161891506916780265487756%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=161891506916780265487756&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-2-84404000.pc_search_result_no_baidu_js&utm_term=github%E5%90%88%E5%B9%B6%E5%88%86%E6%94%AFi) 
 - 合并分支  
 	找到要合并的分支，选择Compare & pull request，再comfirm merge，就可以看到main分支的内容被更新。此外如果要删除分支，可以点击库首页的branches，删除即可。
 - 擅于利用分支  
