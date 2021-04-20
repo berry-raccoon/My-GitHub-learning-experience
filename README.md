@@ -44,7 +44,7 @@ MarkDownPad2与csdn的MarkDown编辑器存在着略微的差异。我看了一�
 Pull Request是用户修改代码后向对方仓库发送采纳请求的功能。详细的Pull Request在书中P118页有介绍，大致步骤为： fork -> 创建分支 -> 发送Pull Request请求。
 ## 5. 页面认识
 - 大佬的页面 
-书P77 
+书P77
 - 仓库管理  
 书P80。  
 删除仓库：在仓库页面的Settings下拉的Danger Zone就可以删除仓库。
