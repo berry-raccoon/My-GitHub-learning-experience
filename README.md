@@ -24,7 +24,7 @@ GitHub可能出现登不上去的情况，可以参考两个网址：
 在看完前面的内容后，再看这本书就容易了那么一点点，书本的学习可以让你学一样东西更加系统，但是我目前也只是看了最基本的操作，自己编辑和看别人代码为主，比如如何在团队中使用等还没有接触。书中的大部分操作都是在安装Git下完成的，类似于输入命令行，但现阶段我更倾向于图形化的操作，学习Git命令行可以参考网站[Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)。
 ## 4. MarkDownPad2使用
 MarkDownPad2与csdn的MarkDown编辑器存在着略微的差异。我看了一个官方的文档，点击Help - Documentation - [Standard MarkDown Syntax Guild](https://daringfireball.net/projects/markdown/syntax)。我的学习方法是把里面的内容复制到MarkDownPad2中，对应着右边的预览，边看边尝试。  
-笔记链接：My-GitHub-learning-experience/MarkdownPad2使用指南.pdf
+[笔记链接](My-GitHub-learning-experience/MarkdownPad2使用指南.pdf)
 ## 5. 其他学习网站
 [(1)GitHub.com中文指导网站](https://docs.github.com/cn/github)
 # 四、 知识点
