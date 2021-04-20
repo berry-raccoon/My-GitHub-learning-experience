@@ -24,6 +24,8 @@ GitHub可能出现登不上去的情况，可以参考两个网址：
 ## 4. MarkDownPad2使用
 MarkDownPad2与csdn的MarkDown编辑器存在着略微的差异。我看了一个官方的文档，点击Help - Documentation - [Standard MarkDown Syntax Guild](https://daringfireball.net/projects/markdown/syntax)。我的学习方法是把里面的内容复制到MarkDownPad2中，对应着右边的预览，边看边尝试。  
 [笔记链接](MarkdownPad2使用指南)
+## 5. 其他学习网站
+[(1GitHub.com中文指导网站) 笔记链接](https://docs.github.com/cn/github)
 # 四、 知识点
 ## 1. 下载GitHub客户端
 [下载客户端](https://desktop.github.com/)一是因为GitHub的连接不稳定，二是因为包含了网页版的基本功能，如分支创建，记录修改过程，上传，更新等。界面简单干净，因此决定使用，尤其是以后打算写论文，本地的doc文件不香嘛。网站上的修改或上传，可以点击客户端的fetch或pull实现同步，不过速度有点慢。
