@@ -63,3 +63,6 @@ Pull Request是用户修改代码后向对方仓库发送采纳请求的功能�
 
 **注意事项**：文件的格式一定要是md;表格前面有一个空行。
 ## 3. Wiki
+关于Wiki比较好的介绍在[第04课： wiki 在 GitHub](https://blog.csdn.net/zoomquiet/article/details/108729662?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)中，Wiki的功能在于管理整个仓库，以及大家在管理仓库的过程中，实现知识的共享与积累。
+## 4. Typora
+MarkDownPad2感觉有点老旧，有些功能不能实现，在GitHub上编辑不能事实浏览编写内容，因此考虑下载[Typora](https://www.typora.io/)。
