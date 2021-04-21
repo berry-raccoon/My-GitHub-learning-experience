@@ -60,5 +60,4 @@ Pull Request是用户修改代码后向对方仓库发送采纳请求的功能�
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
-
 ## 3. Wiki
